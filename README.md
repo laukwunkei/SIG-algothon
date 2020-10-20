@@ -7,8 +7,10 @@ This repository contains of:
 5. Data on signal analysis
 
 Results:
+
 Instructed period (1/1/2017 - 30/9/2020): 
 - Return = 48.41% / Alpha = 0.08 / Beta = 0.27 / Sharpe ratio = 1.35
+
 Longer horizon (1/1/2008~)
 - Return = 498.62% / Alpha = 0.16 / Beta = 0.07 / Sharpe ratio = 1.29
 
